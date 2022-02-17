@@ -53,7 +53,7 @@ export default function Home({data}) {
         <Hero>
           <HeadingXL>Creators' Life</HeadingXL>
           <TextHome>
-            Being curious about the life of creators.
+            Being curious about the life of online creators.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
