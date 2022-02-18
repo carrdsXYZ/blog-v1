@@ -17,10 +17,10 @@ export default function About({data}) {
       <HeaderBack />
       <Layout>
         <HeadingXL>About</HeadingXL>
-        <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
+        <Image fluid={data.creatorSetup.childImageSharp.fluid} />
         <TextBody>
-          I'm intrigued about creators, the creator economy and where it's heading.
-          This blog is used as a platform to me to learn more about these topics.
+          I'm intrigued about online solopreneurs, the creator economy, and where it's heading. 
+          I'll use this blog as a platform for me to learn more about these topics.
         </TextBody>
         <Button href="mailto:carrds.xyz@gmail.com">Get in touch</Button>
       </Layout>
@@ -30,7 +30,7 @@ export default function About({data}) {
 
 export const data = graphql`
   query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/RandomPhoto.jpg"}) {
+    creatorSetup: file(relativePath: {eq: "assets/images/creatorSetup.jpg"}) {
       childImageSharp {
         fluid(maxWidth: 1400) {
           ...GatsbyImageSharpFluid_withWebp
