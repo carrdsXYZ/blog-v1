@@ -5,7 +5,7 @@ date: "2022-02-19"
 
 ![photo](online-community.jpg)
 
-## Creators invest in building a home for thier fans.
+## Creators invest in building a home for their fans.
 
 Once creators have internalized their audience [fandom pattern of behavior](/blog/post2/) they started solidifying communities around their business. Many have started being active in building homes for their communities, moving their top fans off social networks and into self-owned platforms.
 
