@@ -1,6 +1,6 @@
 ---
 title: "The Next Generation of Business Owners"
-date: "2021-12-06"
+date: "2021-10-06"
 ---
 
 ![photo](creators-at-work.jpg)
