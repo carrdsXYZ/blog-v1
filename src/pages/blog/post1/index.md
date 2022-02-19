@@ -15,4 +15,4 @@ Despite the creator economy only being born a decade ago, it’s currently is es
 
 These creators represent a market segment that is growing rapidly with unique, unseen before, needs. 
 
-I'm excited about what's to come for these individuals
+I'm excited about what's to come for these individuals.
