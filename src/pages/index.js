@@ -13,10 +13,12 @@ import {
 import {BREAKPOINT} from "../utils/constants"
 
 const Hero = styled.div`
-  margin-bottom: 20vh;
+  margin-top: 15vh;
+  margin-bottom: 35vh;
 
   @media (max-width: ${BREAKPOINT}px) {
-    margin-bottom: 15vh;
+    margin-top: 20vh;
+    margin-bottom: 45vh;
   }
 `
 const TextHome = styled.p`
