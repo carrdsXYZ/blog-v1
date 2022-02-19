@@ -29,7 +29,7 @@ const TextHome = styled.p`
   margin-bottom: 10vh;
   margin-left: auto;
   margin-right: auto;
-  max-width: 30em;
+  max-width: 20em;
   text-align: center;
 
   @media (max-width: ${BREAKPOINT}px) {
