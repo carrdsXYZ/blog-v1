@@ -5,6 +5,8 @@ date: "2022-02-19"
 
 ![photo](online-community.jpg)
 
+## Creators invest in building a home for their fans.
+
 Once creators have internalized their audience [fandom pattern of behavior](/blog/post2/) they started solidifying communities around their business. Many have started being active in building homes for their communities, moving their top fans off social networks and into self-owned platforms.
 
 They continued to leverage social network platforms like Facebook, Twitter, TikTok, etc., as channels to get to and engage with their audience, but use other tools like Slack, Discord, Facebook Groups, Subreddits, website, mailing list, etc., to organize their community. Everyone in the community is part of the creator’s audience. But, not everyone in their audience is part of the community.
