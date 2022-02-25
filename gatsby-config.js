@@ -51,12 +51,12 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-google-gtag',
       options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "G-5H3VBYKEW2",
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: true,
+        trackingIds: 'G-5H3VBYKEW2',
+        pluginConfig: {
+          head: true
+        }
       },
     },
   ],
