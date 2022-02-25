@@ -46,10 +46,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-offline`,
-    `gatsby-plugin-styled-components`,
-    `gatsby-plugin-sitemap`,
-    `gatsby-plugin-robots-txt`,
     {
       resolve: 'gatsby-plugin-google-gtag',
       options: {
@@ -59,5 +55,9 @@ module.exports = {
         }
       },
     },
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
   ],
 }
