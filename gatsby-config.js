@@ -51,8 +51,8 @@ module.exports = {
       options: {
         trackingIds: 'G-5H3VBYKEW2',
         pluginConfig: {
-          head: true
-        }
+          head: true,
+        },
       },
     },
     `gatsby-plugin-styled-components`,
